@@ -49,12 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexinwebs&theme=dark&hide_border=false&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexinwebs&theme=dark&hide_border=false&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alexinwebs&theme=dark&hide_border=false" />
+  <img height="165" src="https://github-readme-stats-lyart-tau.vercel.app/api?username=alexinwebs&theme=dark&hide_border=false&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats-lyart-tau.vercel.app/api/top-langs/?username=alexinwebs&theme=dark&hide_border=false&layout=compact" />
 </p>
 
 ---
