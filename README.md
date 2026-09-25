@@ -16,11 +16,7 @@
   Based in Ghaziabad, India.
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexinwebs/alexinwebs/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexinwebs/alexinwebs/output/snake-light.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/alexinwebs/alexinwebs/output/snake.gif" />
-</picture>
+<img src="spider-crawl.svg" width="100%" />
 
 <img src="web-divider.svg" width="100%" />
 
