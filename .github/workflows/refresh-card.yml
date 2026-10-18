@@ -1,5 +1,5 @@
 
-name: Generate Contribution Snake
+name: Generate contribution snake
 
 on:
   schedule:
@@ -8,8 +8,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -25,9 +23,8 @@ jobs:
           outputs: |
             dist/snake-light.svg?palette=github-light
             dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif
 
-      - name: Publish to output branch
+      - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
