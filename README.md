@@ -1,9 +1,3 @@
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Alex's GitHub profile banner" src="dark_mode.svg" width="100%" />
-</picture>
-
 <h1 align="center">Hey, I'm Abbas 👋</h1>
 
 <h3 align="center">AI-Assisted Developer · Full-Stack Engineering · AI Integrations</h3>
