@@ -39,15 +39,15 @@ I build applications with TypeScript, Node.js, React, PostgreSQL, and modern bac
 
 I use Cursor, Claude, ChatGPT, and Gemini throughout planning, implementation, debugging, and testing—while taking ownership of architecture, understanding the code, integration, and validation.
 
-- ⚙️ **Backend engineering:** REST APIs, validation, background jobs, and database architecture.
-- 🔐 **Application security:** OAuth 2.0, RBAC, secure sessions, 2FA, and encrypted tokens.
-- 🤖 **Practical AI:** LLM integrations with structured validation and human oversight.
-- 🧪 **Engineering quality:** Unit, integration, and browser-based end-to-end testing.
-- 🚀 **Deployment:** Docker Compose, CI pipelines, and production-oriented application workflows.
+- **Backend engineering:** REST APIs, validation, background jobs, and database architecture.
+- **Application security:** OAuth 2.0, RBAC, secure sessions, 2FA, and encrypted tokens.
+- **Practical AI:** LLM integrations with structured validation and human oversight.
+- **Engineering quality:** Unit, integration, and browser-based end-to-end testing.
+- **Deployment:** Docker Compose, CI pipelines, and production-oriented application workflows.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 01 · PaperVault
 
@@ -117,7 +117,7 @@ A ride-hailing prototype designed around driver workflows, shared TypeScript con
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
 ### Languages
 <p>
@@ -164,7 +164,7 @@ Express.js · MongoDB · Mongoose · JWT · SQLite · Core Java
 
 ---
 
-## 🤖 AI-Assisted Development
+## AI-Assisted Development
 
 I use AI as an engineering tool across the development lifecycle—not as a substitute for understanding the system.
 
@@ -180,22 +180,7 @@ I use AI as an engineering tool across the development lifecycle—not as a subs
 
 ---
 
-## 💼 Experience
-
-**Technical Intern — Training Program**
-
-Netcamp Solutions Pvt. Ltd. · Ghaziabad, India
-
-*June 2026 – July 2026*
-
-- Training in Network Management.
-- Android development with Core Java.
-- Web Development.
-- Ethical Hacking Fundamentals.
-
----
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-lyart-tau.vercel.app/api?username=alexinwebs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
@@ -208,7 +193,7 @@ Netcamp Solutions Pvt. Ltd. · Ghaziabad, India
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -230,7 +215,7 @@ Netcamp Solutions Pvt. Ltd. · Ghaziabad, India
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/alexinwebs">GitHub</a> ·
