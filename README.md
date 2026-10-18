@@ -31,7 +31,7 @@
 
 ---
 
-## `$ whoami`
+## `who-am-i`
 
 I'm a Computer Science undergraduate graduating in 2027, focused on backend and full-stack development.
 
