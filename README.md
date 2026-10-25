@@ -1,10 +1,13 @@
-<h1 align="center">Hey, I'm Abbas Ansari 👋</h1>
-
-<h3 align="center">Backend & Full-Stack Engineer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Abbas%20Ansari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=20" alt="Abbas Ansari header" width="100%"/>
+</p>
 
 <p align="center">
-  I build secure, well-tested web applications with TypeScript, Node.js, React, and PostgreSQL,<br/>
-  and integrate AI where it adds real value, with human oversight.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+%26+Full-Stack+Engineer;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+PostgreSQL;Secure+Authentication+%26+Background+Jobs;Practical+AI+with+Human+Oversight;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing animation" />
+</p>
+
+<p align="center">
+  I build secure, well-tested web applications and integrate AI where it adds real value, with human oversight.
 </p>
 
 <p align="center">
@@ -103,8 +106,24 @@ I use Cursor, Claude, ChatGPT, and Gemini for planning, implementation, debuggin
 
 ---
 
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexinwebs/alexinwebs/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexinwebs/alexinwebs/output/snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/alexinwebs/alexinwebs/output/snake.svg" width="100%"/>
+  </picture>
+</p>
+
+---
+
 ## Let's Connect
 
 I'm looking for backend / full-stack internship and entry-level opportunities. Reach me on [LinkedIn](https://www.linkedin.com/in/alexinwebs), via [email](mailto:alexinwebs@gmail.com), or on my [portfolio](https://alexinwebs.site).
 
 <p align="center"><i>Understand the system. Engineer the solution. Ship useful software.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=100&section=footer" alt="Footer" width="100%"/>
+</p>
